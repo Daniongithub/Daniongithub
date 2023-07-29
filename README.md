@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Daniongithub
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML-CSS
-- 📫 How to reach me (you can't reach me 😅)
+- 🌱 I want to learn C++ (for Arduino uses)
+- 📖 I know HTML and CSS
+- 📫 How to reach me: Discord @curry141
 
 <!---
 Daniongithub/Daniongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
