@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniongithub
+- 👋 Hi, I'm Daniele
 - 👀 I’m interested in IT
 - 🌱 I want to learn C++ (for Arduino uses)
 - 📖 I know HTML and CSS
