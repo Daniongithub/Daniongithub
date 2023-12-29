@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Daniele
 - 👀 I’m interested in IT
-- 🌱 I want to learn C++ (for Arduino uses)
+- 🌱 I want to learn Java
 - 📖 I know HTML and CSS
 - 📫 How to reach me: Discord @curry141
 
