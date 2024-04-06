@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Daniele
 - 👀 I’m interested in IT
 - 🌱 I want to learn Java
-- 📖 I know HTML, CSS for frontends and Golang for backends, I know a bit of C++ for Arduino boards
+- 📖 I know HTML, CSS for frontends and Python for backends, I know a bit of C++ for Arduino boards
 - 📫 How to reach me: Discord @curry141
 
 <!---
